@@ -1,0 +1,10 @@
+transformers==3.0.2
+Flask==1.1.1
+gunicorn==19.9.0
+numpy==1.16.5
+Werkzeug==0.16.0
+pandas==0.25.1
+nltk
+flask_cors
+#torch==1.7.0+cpu torchvision==0.8.1+cpu torchaudio==0.7.0 -f https://download.pytorch.org/whl/torch_stable.html
+tensorflow
